@@ -21,14 +21,7 @@ A simple and responsive **Weather Forecast Web Application** built using **HTML*
 - JavaScript (Vanilla)
 - [OpenWeatherMap API](https://openweathermap.org/api) *(or whichever API you used)*
 
----
 
-## 📷 Screenshots
-
-*(Add images if available)*  
-![App Screenshot](screenshots/app-demo.png)
-
----
 
 ## 📦 How to Use
 
